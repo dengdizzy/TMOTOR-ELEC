@@ -1,2 +1,2 @@
 # TMOTOR-DOCs
-This is tmotor ELEC DOCs
+This is TMOTOR electronics DOCs.
